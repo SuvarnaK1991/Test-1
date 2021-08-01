@@ -4,6 +4,6 @@
     </head>
     <body>
         <button type="button" onclick="document.getElementById().innerHTML=Am changed!">
-            click to change my content</button>
+            Change my content</button>
     </body>
 </html>
